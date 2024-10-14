@@ -36,13 +36,13 @@ Key functionalities for this e-commerce application were developed including mod
 
 ## *Below is a screen shot of the mysql database that shows the design of the model to represent customers, orders, products, customer accounts, and a few additional features.* 
 
-![SQL Workbench]("./images/mySQLworkbench_online_shopping_project.png")
+![SQL Workbench](./images/mySQLworkbench_online_shopping_project.png)
 
 
 
 ## *Below is a screen shot of the user interface, Postman, that shows collections that categorize and group API requests according to their functionality*
 
-![Postman]("./images/postman_online_shopping_project.png")
+![Postman](./images/postman_online_shopping_project.png)
 
 
 *link to GitHub Repository --> (https://github.com/Pheona-Ohakwe/API_Full_Stack_E-Commerce.git)*
